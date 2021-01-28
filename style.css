@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url(4HEader.png);
+}
+
+.header {
+    text-align: center;
+    color: white;
+    font-size: 72pt;
+    background-color: black;
+}
+
+img {
+    margin: 10px auto 10px;
+    display: block;
+}
